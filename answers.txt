@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to healthcare. For example, data can be used to track patient data and predict likely health problems before they happen, which could help doctors provide better and more personalized care to patients.
