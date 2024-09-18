@@ -1,0 +1,3 @@
+Q1: Why might be consider using git?
+
+Answer: Git helps us manage changes to our code and allows for people to collaborate and work on a project simultaneously.
